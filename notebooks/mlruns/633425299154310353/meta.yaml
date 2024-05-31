@@ -1,0 +1,6 @@
+artifact_location: file:///home/alexanderandrade_ec/datascience/projects/mlops_platzi/notebooks/mlruns/633425299154310353
+creation_time: 1717118381388
+experiment_id: '633425299154310353'
+last_update_time: 1717118381388
+lifecycle_stage: active
+name: iris_experiment
